@@ -332,9 +332,11 @@ PRODUCT_PACKAGES += \
     librmnetctl \
     libcnefeatureconfig \
     libxml2 \
-    telephony-ext 
+    telephony-ext \
+    ims-ext-common_system
 
-PRODUCT_BOOT_JARS += \
+RODUCT_BOOT_JARS += \
+    ims-ext-common_system \
     telephony-ext
 
 # Seccomp policy
