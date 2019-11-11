@@ -423,7 +423,6 @@ etc/permissions/qcrilhook.xml|9fc58a3d54d20ac1d53bab14608815121aefbce5
 etc/permissions/telephonyservice.xml|3a6bc2a522270f968ff5a332b8781c0289e6d1ef
 framework/QtiTelephonyServicelibrary.jar|1df2f89ffb3aedc36e1c2ca7cafbf73a6a06b3fb
 framework/qcrilhook.jar|784df5e6aa9df0127700b9a6f1083440ebfac057
-product/framework/qti-telephony-common.jar|74adbf98e89531ac385ab5c4cea3c2549a0d24b0
 -priv-app/qcrilmsgtunnel/qcrilmsgtunnel.apk|d1d3adfe6eff32a3013e146317324029181e3c4a
 vendor/bin/ATFWD-daemon|d8e8b853f33411504054eb965b1fb836544daee4
 vendor/bin/netmgrd|e9c82b0644cb08b160a2ce484fdb58830306237d
@@ -647,5 +646,4 @@ vendor/lib/libwfdmodulehdcpsession.so|89fc62ee8f41bde6b2dcc9bcde3e52954ae5253d
 vendor/lib64/libwfdhdcpcp.so|c4f8b9368ca91157695144438d02fe5f31af635d
 
 # Telephony (qti-telephony-common) - from DRG - QKQ1.190828.002
-product/framework/qti-telephony-common.jar|b4d187700f279cdbd40e74b4c3be4504f10d8b29
-
+product/framework/qti-telephony-common.jar|74adbf98e89531ac385ab5c4cea3c2549a0d24b0
