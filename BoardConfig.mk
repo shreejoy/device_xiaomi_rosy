@@ -242,4 +242,3 @@ BOARD_USES_AOSP_WLAN_HAL := true
 
 # Inherit from the proprietary version
 -include vendor/xiaomi/rosy/BoardConfigVendor.mk
--include vendor/xiaomi/msm8953-common/BoardConfigVendor.mk
