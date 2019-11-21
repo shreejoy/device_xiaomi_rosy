@@ -3,18 +3,18 @@
    "remote":"github",
    "repository": "LineageOS/android_packages_resources_devicesettings",
    "target_path": "packages/resources/devicesettings",
-   "revision":"lineage-16.0"
+   "branch":"lineage-17.0"
   },
   {
    "remote":"github",
-   "repository": "Sukrut4778/android_vendor_xiaomi",
-   "target_path": "vendor/xiaomi",
-   "revision":"lineage-16.0"
+   "repository": "PixelExperience-Devices/vendor_xiaomi_rosy",
+   "target_path": "vendor/xiaomi/rosy",
+   "branch":"ten"
   },
    {
     "remote":"github",
-    "repository": "Sukrut4778/kernel_xiaomi_rosy",
+    "repository": "PixelExperience-Devices/kernel_xiaomi_rosy",
     "target_path": "kernel/xiaomi/msm8953",
-    "revision":"pie"
+    "branch":"ten-wip"
   } 
 ]
