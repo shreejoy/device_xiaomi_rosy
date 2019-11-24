@@ -7,9 +7,9 @@
   },
   {
    "remote":"github",
-   "repository": "PixelExperience-Devices/vendor_xiaomi_rosy",
+   "repository": "baunilla/android_vendor_xiaomi_rosy",
    "target_path": "vendor/xiaomi/rosy",
-   "branch":"ten"
+   "branch":"q"
   },
    {
     "remote":"github",
