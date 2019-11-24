@@ -40,9 +40,6 @@ TARGET_BOOT_ANIMATION_RES := 720
 # Pixel Experience
 TARGET_GAPPS_ARCH := arm64
 
-# Pixel Experience build type
-CUSTOM_BUILD_TYPE := OFFICIAL
-
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
